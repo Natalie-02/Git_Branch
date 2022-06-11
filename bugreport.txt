@@ -1,0 +1,11 @@
+ID: NNN-0000
+Author: Nevzorova N
+Assignment: Nevzorova N 
+Priority: Very High
+Title: [Ошибка] Preprod. Кнопка регистрации не активна на странице регистрации
+Environment: Preprod. Google Chrome version 110
+Preconditions: Открыть страницу http://xyz.com, nepeйти в раздел регистрации
+STR: Заполнить валидными данными поля регистрации [Nevzorova] и нажать кнопку зарегистрироваться
+ER: Регистрация успешно выполнена и на почту пришло письмо об успешной регистрации
+AR: Кнопка регистрации не активна после заполнения всех необходимых полей регистрации
+Attachments: Screenshot-001.png
